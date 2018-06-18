@@ -1,5 +1,9 @@
-print("enter the value of a and b")
-a=int(input("enter a value"))
-b=int(input("enter b value"))
-c=a+b
-print(c)
+x=4
+y=5
+if x<y:
+    print(x<y)
+if x>y:
+    print(x>y)
+
+        
+    
